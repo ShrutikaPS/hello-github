@@ -1,2 +1,2 @@
 # hello-github
-just another repositary
+hey I m devyani new user of github
